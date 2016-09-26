@@ -1,4 +1,4 @@
-triangle_height = int(raw_input("Give me the height of the triange to print: "))
+triangle_height = int(raw_input("Give me the height of the triangle to print: "))
 triangle_width = triangle_height + (triangle_height - 1)
 empty_space = triangle_height - 1
 print_times = 1
